@@ -1,0 +1,12 @@
+{
+  "id": "com.erdfisch.redirect",
+  "title": "Redirect",
+  "version": "0.1.0",
+  "healthCheckPath": "/",
+  "httpPort": 3000,
+  "addons": {
+    "localstorage": {}
+  },
+  "manifestVersion": 2,
+  "icon": "file://logo.png"
+}

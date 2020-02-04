@@ -1,0 +1,1 @@
+Simple redirect with a message to a configurable site.
