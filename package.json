@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "GPL",
+  "license": "GPL-2.0-or-later",
   "dependencies": {
     "dotenv": "^8.2.0"
   }
